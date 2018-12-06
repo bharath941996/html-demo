@@ -1,0 +1,19 @@
+h1,h2,body
+{
+    font-family: Arial;
+    background-color: grey;
+}
+blockquote
+{
+    border: 1px solid white;
+    text-align: center;
+    margin-left: 0;
+} 
+
+/*h1 {
+    color: blue;
+    font-style: italic;
+    background-color: grey;
+
+}
+body { background-color: red}*\
